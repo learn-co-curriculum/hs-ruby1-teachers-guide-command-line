@@ -38,8 +38,7 @@ You're going to learn about the command line by planning for a trip.
 
 ### Hints and Hurdles
 + Navigating your computer from the command line is a lot about muscle memory. It's important that students get a lot of repetition in with these commands.
++ In [Lab: Find The Missing Pets]( https://github.com/flatiron-school-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
 
 ### Additional Media
 + It might be fun for the class to play around with these [CLI easter eggs](https://github.com/flatiron-school-curriculum/hs-cli-cultural-piece).
-+ In [Lab: Find The Missing Pets]( https://github.com/flatiron-school-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
-
