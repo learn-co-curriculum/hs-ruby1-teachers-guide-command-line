@@ -42,7 +42,7 @@ You're going to learn about the command line by planning for a trip.
 ### Additional Media
 + It might be fun for the class to play around with these [CLI easter eggs](https://github.com/flatiron-school-curriculum/hs-cli-cultural-piece).
 
-### On Ironboard
+### On Learn
 + [Lab: Find The Missing Pets]( https://github.com/flatiron-school-curriculum/find-missing-pet) (instructor should complete one or two examples before releasing students.)
 + [Stretch Lab](https://github.com/flatiron-school-curriculum/hs-advanced-cli)
 + [Study Guide](https://github.com/flatiron-school-curriculum/command_line_castle_code_along)
