@@ -1,7 +1,15 @@
 ## Unit 1: Command Line
 
 ### SWBATs
-+ Look up pre-written Ruby methods, write their own methods, and understand the importance and function of scope and return values.
+***Students will be able to navigate their system’s file structure using the command line in terminal.***
+
+  * CLI - Understand and explain what terminal is and why we use it.
+  * CLI - Navigate through directories using relative and absolute paths*
+  * CLI - use the cd command to move up and down directories
+  * CLI - Use the ‘ls’ keyword to list items in a directory
+  * CLI - Remove a file and a directory by using ‘rm’ and ‘rm -rf’ keywords
+  * CLI - move files and directories using the mv command
+
 
 ### Motivation / Why Should You Care?
 + Back in the day (the 1980s!), computers only had a terminal to control them. Later on, GUIs were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it makes you faster and more in control.
