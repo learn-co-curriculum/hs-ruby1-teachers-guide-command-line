@@ -15,6 +15,8 @@
 + Back in the day (the 1980s!), computers only had a terminal to control them. Later on, GUIs were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it makes you faster and more in control.
 
 ### Lesson Plan
+***Any students that have done this lesson before should do the advanced CLI Bash Scripting Lab***
+
 You're going to learn about the command line by planning for a trip. 
 + Open your terminal. You’ll see a tilde: `~`. This means you’re in your user's home directory.
 + Enter `pwd`. Explain `pwd` = print working directory.
