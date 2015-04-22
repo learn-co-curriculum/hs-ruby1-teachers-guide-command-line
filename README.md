@@ -6,20 +6,20 @@
   * CLI - Understand and explain what terminal is and why we use it.
   * CLI - Navigate through directories using relative and absolute paths*
   * CLI - use the cd command to move up and down directories
-  * CLI - Use the ‘ls’ keyword to list items in a directory
-  * CLI - Remove a file and a directory by using ‘rm’ and ‘rm -rf’ keywords
+  * CLI - Use the `ls` keyword to list items in a directory
+  * CLI - Remove a file and a directory by using ‘rm’ and `rm -rf` keywords
   * CLI - move files and directories using the mv command
 
 
 ### Motivation / Why Should You Care?
-+ Back in the day (the 1980s!), computers only had a terminal to control them. Later on, GUIs were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it makes you faster and more in control.
+Back in the day (the 1980s!), computers only had a terminal to control them. Later on, GUIs were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it makes you faster and more in control.
 
 ### Lesson Plan
 ***Any students that have done this lesson before should do the advanced CLI Bash Scripting Lab***
 
 You're going to learn about the command line by planning for a trip. 
 + Open your terminal. You’ll see a tilde: `~`. This means you’re in your user's home directory.
-+ Enter `pwd`. Explain `pwd` = print working directory.
++ Enter `pwd`. Explain `pwd` means print working directory.
 + Let’s change directories. First check what directories are within the directory where you are standing by using `ls`.
 + Show students how to change directories by using the `cd <directory-name>` command. Change to `desktop` directory.
 + Students `mkdir development`.
