@@ -56,3 +56,5 @@ You're going to learn about the command line by planning for a trip.
 
 ### Additional Media
 + It might be fun for the class to play around with these [CLI easter eggs](https://github.com/learn-co-curriculum/hs-cli-cultural-piece).
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-command-line' data-visibility='hidden'>View this lesson on Learn.co</a>
